@@ -10,6 +10,7 @@ More Python practice and an exploration into web scraping as an aspiring softwar
 
     git clone https://github.com/praerie/cinequiz
     cd cinequiz
+    pip install -r requirements.txt
     python main.py
 
 ## To-Do
