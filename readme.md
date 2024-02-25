@@ -2,10 +2,6 @@
 
 A console cinema guessing game that web scrapes data from IMDB's top 250 chart. 
 
-## Motivation
-
-More Python practice and an exploration into web scraping as an aspiring software developer.
-
 ## Installation
 
     git clone https://github.com/praerie/cinequiz
